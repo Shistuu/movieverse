@@ -3,7 +3,7 @@ import MovieCard from "./MovieCard";
 import SearchIcon from "./search.svg";
 import "./App.css";
 
-const API_URL = "http://www.omdbapi.com?apikey=e58a1d26";
+const API_URL = "https://www.omdbapi.com?apikey=e58a1d26";
 
 const movie1 = {
     "Title": "Avengers: Endgame and the Latest Captain Marvel Outrage!!",
